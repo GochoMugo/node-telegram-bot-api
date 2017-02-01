@@ -1,0 +1,24 @@
+{
+  "name": "node-telegram-bot-api-latest",
+  "version": "1.0.0",
+  "description": "Telegram Bot API",
+  "main": "./index.js",
+  "keywords": [
+    "telegram",
+    "telegram bot",
+    "telegram bot api",
+    "bot"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "node-telegram-bot-api": "latest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/GochoMugo/node-telegram-bot-api.git"
+  },
+  "bugs": {
+    "url": "https://github.com/GochoMugo/node-telegram-bot-api/issues"
+  },
+  "homepage": "https://github.com/GochoMugo/node-telegram-bot-api"
+}
